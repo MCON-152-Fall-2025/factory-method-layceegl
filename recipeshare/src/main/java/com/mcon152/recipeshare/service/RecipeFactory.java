@@ -16,6 +16,9 @@ public class RecipeFactory {
             case "DESSERT":
                 out = new DessertRecipe();
                 break;
+            case "SOUP":
+                out = new SoupRecipe();
+                break;
             case "DAIRY":
                 out = new DairyRecipe();
                 break;
