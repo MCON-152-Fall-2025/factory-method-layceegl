@@ -112,7 +112,8 @@ curl -X POST http://localhost:8081/api/recipes \
   -H "Content-Type: application/json" \
   -d '{"type":"VEGETARIAN","title":"Veggie Pasta","description":"...","ingredients":"...","instructions":"...","servings":4}'
 ```
-
+##you use mvn spring-boot:run to enter into an application using maven. 
+##you use ssh -L 8082:localhost:8081 to switch thinsg to the 8082 location and link everything together. then on the browser you can change the link and see everything
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
@@ -128,4 +129,8 @@ For questions or feedback, please open an issue on GitHub.
 ## Reference Documentation
 
 - [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [Apache Maven Documentation](https://maven.apache.org/guides/index.html)
+- [Apache Maven Documentation](https://maven.apache.org/guides/index.html):w
+:w
+zz
+ZZ
+
